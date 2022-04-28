@@ -3,7 +3,7 @@ Comunicación entre procesos para la lectura de un .csv que consiste en una tabl
 
 IMPORTANTE!!
 
-Para que el ejecutable guardar funcione de manera correcta debe de guardar el data.csv proporcionado por el progesor en la carpeta files, con el nombre de "data.csv".
+Para que el ejecutable guardar funcione de manera correcta debe de guardar el .csv proporcionado por el profesor en la carpeta files, con el nombre de "data.csv".
 
 
 ¿Cómo correr el programa?
