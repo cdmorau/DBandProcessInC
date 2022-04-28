@@ -1,0 +1,1 @@
+Igresar en esta carpeta el .csv con nombre de data.csv
