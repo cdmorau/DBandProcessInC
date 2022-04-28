@@ -10,10 +10,10 @@ Para que el ejecutable guardar funcione de manera correcta debe de guardar el .c
 
 COMANDOS 
 
-
-
 make
+
 cd bin
+
 ./guardar
 
 Terminal 1 en la carpeta bin
